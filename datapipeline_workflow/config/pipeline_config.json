@@ -1,0 +1,8 @@
+{
+    "aurora_database": {
+        "hostname": "",
+        "database": "DB",
+        "username": "",
+        "password": ""
+    }
+}

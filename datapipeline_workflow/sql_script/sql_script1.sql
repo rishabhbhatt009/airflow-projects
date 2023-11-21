@@ -1,0 +1,4 @@
+USE DB1 ; 
+
+SELECT COUNT(DISTINCT team_id)
+FROM Team;
