@@ -1,8 +1,9 @@
 .venv
 .vscode
 
-*logs
-
 *.cfg
 *.db
 *password.txt
+
+*/logs
+*/outputs
